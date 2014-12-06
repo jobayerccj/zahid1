@@ -1,6 +1,16 @@
 body{
-    background: #000;
+    //background: #000;
 }
+
+#top1{
+    background: #000;
+    width: 100%;
+}
+
+.container{
+    padding: 0 100px;
+}
+
 #header1{
     background: #000;
 }
@@ -38,4 +48,15 @@ body{
 #header2{
     background: url('images/background.jpg');
     padding-top: 20px;
+    width: 100%;
+}
+
+.menu2{
+    background: transparent;
+    border: none;
+}
+
+.top-h1{
+    font-size: 1em;
+    font-weight: bold;
 }
