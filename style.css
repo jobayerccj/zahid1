@@ -31,6 +31,7 @@ body{
    margin-bottom:0;
    margin-top: 4px;
    min-height: 31px;
+   font-family: 'Open Sans', sans-serif;
 }
 
 .tel1{
@@ -48,15 +49,51 @@ body{
 #header2{
     background: url('images/background.jpg');
     padding-top: 20px;
+    padding-bottom: 18px;
     width: 100%;
 }
 
 .menu2{
     background: transparent;
     border: none;
+    float: right;
+    padding-left: 4px;
+    margin-top: 13px;
 }
 
 .top-h1{
     font-size: 1em;
     font-weight: bold;
+}
+
+.nav2 > li > a{
+    font-family: 'Roboto', sans-serif;
+    color:#343434 !important;
+}
+
+.nav2 > li > a:hover{
+    color:#991b1e !important;
+}
+
+.active_nav{
+   color:#991b1e !important;
+}
+
+.carousel-indicators{
+   top:95%; 
+   left:3%;
+}
+
+.carousel-indicators li{
+    border-color: #8c191b;
+    background-color: #9e2629;
+    height: 8px;
+    width: 8px;
+}
+
+.carousel-indicators .active{
+    background-color: #3f991b;
+    border-color: #fff;
+    height: 8px;
+    width: 8px;
 }
