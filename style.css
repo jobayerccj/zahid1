@@ -97,3 +97,31 @@ body{
     height: 8px;
     width: 8px;
 }
+
+#inner1{
+    width: 100%;
+    background: #e1e1e1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.rounded1{  
+    background: #fff;
+    border: 33px solid #9a1d20;
+    height:300px;
+    width: 300px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+}
+
+.rounded_t1{
+ text-align: center;
+ font-weight: bold;
+ font-size: 34px;
+}
+
+.rounded_t2{
+ text-align: center;
+ font-weight: bold;
+ font-size: 26px;
+}
