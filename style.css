@@ -125,3 +125,13 @@ body{
  font-weight: bold;
  font-size: 26px;
 }
+
+.form1{
+    background: #fff;
+    margin-left: 84px;
+    padding:20px 0;
+}
+
+.form-field1{
+    margin:10px 0;
+}
