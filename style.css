@@ -11,6 +11,8 @@ body{
     padding: 0 100px;
 }
 
+
+
 #header1{
     background: #000;
 }
@@ -32,6 +34,7 @@ body{
    margin-top: 4px;
    min-height: 31px;
    font-family: 'Open Sans', sans-serif;
+   float: right;
 }
 
 .tel1{
